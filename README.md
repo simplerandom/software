@@ -1,39 +1,87 @@
-# software
+# 1.图标在线生成网站
+![http://www.bitbug.net/img/bitbug.net_logo.png](http://www.bitbug.net/img/bitbug.net_logo.png)
+>[http://www.bitbug.net](http://www.bitbug.net)
+# 2.log4j配置文件
+![http://blog.java1234.com/static/images/logo.png](http://blog.java1234.com/static/images/logo.png)
+>[http://blog.java1234.com/index.html](http://blog.java1234.com/index.html)
+# 3.snipaste截屏取色
+![https://assets.windowsphone.com/13484911-a6ab-4170-8b7e-795c1e8b4165/English_get_L_InvariantCulture_Default.png](https://assets.windowsphone.com/13484911-a6ab-4170-8b7e-795c1e8b4165/English_get_L_InvariantCulture_Default.png)
+[https://www.snipaste.com/](https://www.snipaste.com/)
+# 4.icofont
+![https://icomoon.io/img/icons-linearicons.png?v2](https://icomoon.io/img/icons-linearicons.png?v2)
+[https://icomoon.io/](https://icomoon.io/)
+# 5.聚bt
+[https://jubt.net/cn/index.html](https://jubt.net/cn/index.html)
+# 6.https://www.netcraft.com/
+[https://www.netcraft.com/](https://www.netcraft.com/)
+# 7.https://getmdl.io/
+[https://getmdl.io/](https://getmdl.io/)
+# 8.测试blog
+[https://www.cnblogs.com/coderzh/category/100498.html](https://www.cnblogs.com/coderzh/category/100498.html)
+# 9测试接口http
+[https://autumnfish.cn/api/joke](https://autumnfish.cn/api/joke)
+# 10浏览器插件网站
+[https://www.extfans.com/](https://www.extfans.com/)
+<table style="font-size: 30px">
+    <tr>
+        <th>序号</th>
+        <th>产品名</th>
+        <th>邮箱地址</th>
+        <th>备注</th>
+    </tr>
+    <tr>
+        <td>1</td>
+		<td>搜狐邮箱</td>
+		<td>18682308149@sohu.com</td>
+	    <td>yaoyaobaby</td>
+    </tr>
+    <tr>
+        <td>2</td>
+		<td>Outlook邮箱</td>
+		<td>simple_random@outlook.com</td>
+		<td>simplerandom,gitee:limakilo</td>
+        </tr>
+	 <tr>
+        <td>3</td>
+		<td>QQ邮箱</td>
+		<td>coke1993711@qq.com</td>
+		<td>zookeeper2020,gitee:hellolink,helloLink</td>
+    </tr>
+	<tr>
+        <td>4</td>
+		<td>新浪邮箱</td>
+		<td>limakilo@sina.com</td>
+		<td>lplovehq</td>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td>阿里邮箱</td>
+        <td>simple_random@aliyun.com</td>
+        <td>-</td>
+    </tr>
+	<tr>
+        <td>6</td>
+        <td>网易邮箱</td>
+        <td>simple_random@163.com</td>
+        <td>-</td>
+    </tr>
+	 <tr>
+        <td>7</td>
+        <td>tom邮箱</td>
+        <td>limakilo@tom.com</td>
+        <td>-</td>
+    </tr>
+	<tr>
+        <td>8</td>
+        <td>proton邮箱</td>
+        <td>simplerandom@protonmail.com</td>
+        <td>瑞士-支持中文</td>
+    </tr>
+	<tr>
+        <td>9</td>
+        <td>tuta邮箱</td>
+        <td>limakilo@tutanota.com</td>
+        <td>支持中文-验证码-4a70b463c6a3c27800c7a8fb6814ef2baf76717d5d33e04b131f8ca631e22434</td>
+    </tr>
+    </table>			
 
-#### 介绍
-{**以下是码云平台说明，您可以替换此简介**
-码云是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN）。专为开发者提供稳定、高效、安全的云端软件开发协作平台
-无论是个人、团队、或是企业，都能够用码云实现代码托管、项目管理、协作开发。企业项目请看 [https://gitee.com/enterprises](https://gitee.com/enterprises)}
-
-#### 软件架构
-软件架构说明
-
-
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 码云特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  码云官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解码云上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是码云最有价值开源项目，是码云综合评定出的优秀开源项目
-5.  码云官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  码云封面人物是一档用来展示码云会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
